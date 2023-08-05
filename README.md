@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **joshiaditya.aj07@gmail.com**
 
-- ⚡ Thing I love the most **To ship products💪**
+- ⚡ Thing I love the most is **to ship great products💪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
