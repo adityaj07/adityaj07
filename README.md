@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya Joshi</h1>
-<h3 align="center">A Developer from India(Bharat) currently working and learning full stack technologies.</h3>
+<h1 align="left">Hi 👋, I'm Aditya Joshi</h1>
+<h3 align="left">A Developer from India(Bharat) currently working and learning full stack technologies.</h3>
 
 - 🔭 I’m currently working on [HealthSynx](https://github.com/adityaj07/healthsynx)
 
