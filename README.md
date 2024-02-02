@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Aditya Joshi</h1>
 <h3 align="left">A Developer from India(Bharat) currently working and learning full stack technologies.</h3>
 
-- 🔭 I’m currently working on [DevCard](https://github.com/adityaj07/DevCard)
+- 🔭 I’m currently working on [DevCard](https://github.com/adityaj07/DevCard) & [Flowpay](https://github.com/adityaj07/FlowPay)
 
 - 🌱 I’m currently learning **Nextjs**
 
