@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Joshi</h1>
 <h3 align="center">A Developer from India(Bharat) currently working and learning full stack technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaj07&label=Profile%20views&color=0e75b6&style=flat" alt="adityaj07" /> </p>
-
 - 🔭 I’m currently working on [FlowPay](https://github.com/adityaj07/flowpay)
 
 - 🌱 I’m currently learning **Nextjs**
