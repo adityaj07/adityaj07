@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [adityaj07-portfolio.vercel.app](adityaj07-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [adityaj07-portfolio.vercel.app](https://adityaj07-portfolio.vercel.app)
 
 - 💬 Ask me about **Full Stack Web development**
 
