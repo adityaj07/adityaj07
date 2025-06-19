@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Joshi</h1>
 <h3 align="center">A Developer from India(Bharat) currently working and learning full stack technologies.</h3>
 
-- 🔭 I’m currently working on [Taku](https://github.com/adityaj07/Taku)
+- 🔭 Working on [**Taku**](https://github.com/adityaj07/Taku) — A minimalist time tracking & productivity app inspired by tools like ClickUp, designed to be fast, local-first, and addictive to use.
 
 - 🌱 I’m currently learning **Nextjs**
 
